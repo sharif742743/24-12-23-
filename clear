@@ -1,0 +1,22 @@
+[1mdiff --git a/Sharif.png b/Sharif.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1508301[m
+Binary files /dev/null and b/Sharif.png differ
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c32fb3b..96a48d9 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,9 +5,12 @@[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+     <title>Practice 1</title>[m
+     <link rel="stylesheet" href="./style.css">[m
+[32m+[m[32m    <link rel="shortcut icon" href="./Sharif.png" type="image/x-icon">[m
+ </head>[m
+ <body>[m
+     <p>Saif Mahmud Sharif</p>[m
+     <p>sharif</p>[m
+[32m+[m[32m    <p>Ramjan ali</p>[m
+[32m+[m[32m    <p>Sharif Mia</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
